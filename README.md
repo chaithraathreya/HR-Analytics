@@ -56,8 +56,11 @@ The dataset contains employee-level HR data with the following key fields:
 
 ## 📊 Dashboard Preview
 
-(C:\Users\chait\Pictures\Screenshots\HR-1)
-(C:\Users\chait\Pictures\Screenshots\HR-2)
+<img width="1417" height="807" alt="HR-1" src="https://github.com/user-attachments/assets/276d6e9e-b3e6-4b16-a4de-1202ae7fd197" />
+
+
+<img width="1435" height="790" alt="HR-2" src="https://github.com/user-attachments/assets/32b863ce-a27b-4fc7-9221-c7ced50345b0" />
+
 
 ---
 
