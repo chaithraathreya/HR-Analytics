@@ -54,6 +54,12 @@ The dataset contains employee-level HR data with the following key fields:
 
 ---
 
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](images/dashboard.png)
+
+---
+
 ## 📊 Dashboard Highlights
 - Attrition analysis with filters for **department, gender, salary slab**
 - Salary distribution visuals using **custom salary bands**
