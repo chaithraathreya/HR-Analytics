@@ -56,7 +56,8 @@ The dataset contains employee-level HR data with the following key fields:
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard.png)
+![HR Analytics Dashboard](C:\Users\chait\Pictures\Screenshots\HR-1)
+![HR Analytics Dashboard](C:\Users\chait\Pictures\Screenshots\HR-2)
 
 ---
 
